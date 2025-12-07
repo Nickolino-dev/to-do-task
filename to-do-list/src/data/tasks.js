@@ -1,22 +1,22 @@
 let tasks = [
   {
     id: "123",
-    test: "Studia Html",
+    name: "Studia Html",
     isCompleted: true,
   },
   {
     id: "456",
-    test: "Studia CSS",
+    name: "Studia CSS",
     isCompleted: true,
   },
   {
     id: "789",
-    test: "Studia Javascript",
+    name: "Studia Javascript",
     isCompleted: true,
   },
   {
     id: "987",
-    test: "Studia React",
+    name: "Studia React",
     isCompleted: true,
   },
 ];
